@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ćao! 👋
 - 👀 I’m looking to collaborate on interesting web projects
 - 💞️ I like to learn smth new, to communicate with others and achieve goals
 - 📫 How to reach me:
