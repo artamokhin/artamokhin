@@ -1,6 +1,6 @@
 ### Ćao! 👋
 - 👀 I’m looking to collaborate on interesting projects
-- 💞️ I like to learn smth new, to communicate with others and achieve goals
+- 💞️ I like to learn something new, to communicate with others and achieve goals
 - 📫 How to reach me:
     <a  href="https://www.linkedin.com/in/artamokhin/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" height = 20></a>
 
