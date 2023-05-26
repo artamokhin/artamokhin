@@ -20,7 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/>
 
-
+![Codewars](https://github.r2v.ch/codewars?user=artamokhin&stroke=GREEN)
 </div>
 
 <!--
